@@ -4,7 +4,5 @@ testing
 hello world
 welcome frd
 welcome to india
-hi
-hello
-byee
-
+go to home
+gud morning
