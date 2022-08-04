@@ -5,6 +5,7 @@
 
 trigger:
 - main
+ambika
 
 pool:
   vmImage: 'ubuntu-latest'
